@@ -2,6 +2,7 @@
 	.gitignore file is used to ignore certain files from the remote repository such as build files, packages
 	which are not part of the source code.gitignore files contain ignore rules. 
 	It specifically contains rules that are meant to be shared through the repository so it should be included
+	.jar, .war, .ear, .iml files are included.
 2)What does fast-forward in Git mean?
 	Git merges or rebases the current branch against a branch that is checked out at a later point of time
 	
